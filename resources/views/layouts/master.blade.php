@@ -23,7 +23,7 @@
                 <div class="pt-24 px-32 w-full">
                     <search />
                 </div>
-                <div class="pt-4 px-32 w-full">
+                <div class="pt-8 px-32 w-full">
                     <filters :data="{{ json_encode($genres) }}" />
                 </div>
             </div>
@@ -55,7 +55,7 @@
                     </path>
                 </svg>
             </a>
-            <a>
+            <a href="https://www.facebook.com/profile.php?id=61560332503346">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
                     class="fill-current">
                     <path
